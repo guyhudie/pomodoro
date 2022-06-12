@@ -1,3 +1,4 @@
+from http.server import BaseHTTPRequestHandler
 from tkinter import *
 import math
 
